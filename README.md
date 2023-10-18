@@ -4,6 +4,7 @@
 3. [Coding Standards](#coding-standards)
    - [Consistent Code Formatting](#cosistent-code-formatting)
    - [Variable Naming Conventions](#variable-naming-conventions)
+   - [URL / API Naming Conventions](#url--api-naming-conventions)
    - [TypeScript](#typescript)
 4. [Version Control](#version-control)
    - [Version Control System Overview](#version-control-system-overview)
