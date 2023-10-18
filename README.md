@@ -1,14 +1,45 @@
+# Table of Contents
+1. [Introduction](#introduction)
+   - [Purpose of the Document](#purpose-of-the-document)
+   - [Document Scope and Objectives](#document-scope-and-objectives)
+2. [Technology Stacks](#technology-stacks)
+3. [Coding Standards](#coding-standards)
+   - [Code Formatting Guidelines](#code-formatting-guidelines)
+   - [Variable Naming Conventions](#variable-naming-conventions)
+   - [Consistent Code Formatting](#cosistent-code-formatting)
+   - [Error Handling Best Practices](#error-handling-best-practices)
+   - [Avoid Magic Numbers and Strings](#avoid-magic-numbers-and-strings)
+4. [Version Control](#version-control)
+   - [Version Control System Overview](#version-control-system-overview)
+   - [Git Best Practices](#git-best-practices)
+   - [Branching Strategies](#branching-strategies)
+   - [Commit Message Guidelines](#commit-message-guidelines)
+   - [Handling Merge Conflicts](#handling-merge-conflicts)
+   - [Best Practices for Collaborative Version Control](#best-practices-for-collaborative-version-control)
+5. [Pull Request Workflow](#pull-request-workflow)
+   - [Creating and Managing Pull Requests](#creating-and-managing-pull-requests)
+   - [Code Review Guidelines](#code-review-guidelines)
+6. [Collaboration Guidelines](#collaboration-guidelines)
+   - [Effective Communication within Development Teams](#effective-communication-within-development-teams)
+   - [Code Review Etiquette](#code-review-etiquette)
+   - [Collaborative Tools and Practices](#collaborative-tools-and-practices)
+7. [Localization and Internationalization (i18n)](#localization-and-internationalization)
+   - [Preparing for Localization in Software](#preparing-for-localization-in-software)
+   - [Managing Translations and Multilingual Content](#managing-translations-and-multilingual-content)
+   - [Internationalization Strategies and Best Practices](#internationalization-strategies-and-best-practices)
+8. [Project Structure](#project-structure)
+   - [Directory Structure and Organization](#directory-structure-and-organization)
+   - [Modular Code Design and Componentization](#modular-code-design-and-componentization)
+9. [Code Review](#code-review)
+   - [Code Review Processes and Workflows](#code-review-processes-and-workflows)
+   - [Conducting Effective Code Reviews](#conducting-effective-code-reviews)
+   - [Code Review Checklists and guidelines](#code-review-checklists-and-guidelines)
+   - [Benefits of Code Reviews for Code Quality](#benefits-of-code-reviews-for-code-quality)
+
+
 
 ## Introduction
 Welcome to Wonsys Github repository! This document outlines the conventions and best practices we follow to maintain consistency and efficiency in our development workflow. Whether you're a Full Time, Part Time, Freelancer or even an Intern, adhering to these convetions will make collaboration smoother and chodebase management more manageable.
-
-***Table of Contents***
-1. [Code Editor](#code-editor)
-2. [Technology Stacks](#technology-stacks)
-3. [Coding Standards](#coding-standards)
-
-## Code Editor
-Use [VS Code](https://code.visualstudio.com/) as your Code Editor
 
 ## Technology Stacks
 **Frontend**
