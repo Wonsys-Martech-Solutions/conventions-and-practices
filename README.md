@@ -4,7 +4,7 @@
 3. [Coding Standards](#coding-standards)
    - [Consistent Code Formatting](#cosistent-code-formatting)
    - [Variable Naming Conventions](#variable-naming-conventions)
-   - [URL / API Naming Conventions](#url--api-naming-conventions)
+   - [URL / API Path Conventions](#url--api-path-conventions)
    - [TypeScript](#typescript)
 4. [Version Control](#version-control)
    - [Version Control System Overview](#version-control-system-overview)
@@ -103,7 +103,7 @@ When naming variables, it's essential to use descriptive and meaningful names th
    ]
    ```
 
-### URL / API 
+### URL / API Path Conventions
 URL / API path naming should not contain uppercase and spacing (Replace spacing with `-`). No Verbs in the URL / API path allow:
    ```
    # Not Recommended
