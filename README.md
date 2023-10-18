@@ -2,11 +2,9 @@
 1. [Introduction](#introduction)
 2. [Technology Stacks](#technology-stacks)
 3. [Coding Standards](#coding-standards)
-   - [Code Formatting Guidelines](#code-formatting-guidelines)
-   - [Variable Naming Conventions](#variable-naming-conventions)
    - [Consistent Code Formatting](#cosistent-code-formatting)
-   - [Error Handling Best Practices](#error-handling-best-practices)
-   - [Avoid Magic Numbers and Strings](#avoid-magic-numbers-and-strings)
+   - [Variable Naming Conventions](#variable-naming-conventions)
+   - [TypeScript](#typescript)
 4. [Version Control](#version-control)
    - [Version Control System Overview](#version-control-system-overview)
    - [Git Best Practices](#git-best-practices)
@@ -37,7 +35,7 @@
 
 
 ## Introduction
-Welcome to Wonsys Github repository! This document outlines the ***conventions and best practices*** we follow to maintain consistency and efficiency in our development workflow. Whether you're a Full Time, Part Time, Freelancer or even an Intern, adhering to these convetions will make collaboration smoother and chodebase management more manageable.
+Welcome to Wonsys Github repository! This document outlines the ***conventions and best practices*** we follow to maintain consistency and efficiency in our development workflow. Whether you're a Full Time, Part Time, Freelancer or even an Intern, adhering to these convetions will make collaboration smoother and codebase management more manageable.
 
 ## Technology Stacks
 **Frontend**
@@ -57,7 +55,7 @@ Welcome to Wonsys Github repository! This document outlines the ***conventions a
 ## Coding Standards
 We follow a set of coding standards to ensure that our code is readable, maintainable, and consistent across the repository. These standards cover aspects such as code formatting, variable naming conventions, and more. Make sure to review our [Coding Standards](#coding-standards) document for detailed guidelines.
 
-### Consistent Formatting
+### Consistent Code Formatting
 To ensure standardized code styling while using [VS Code](https://code.visualstudio.com/), it is recommended that you install the [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) plugin. Once installed, you can maintain consistent code formatting. Additionally, don't forget to copy the [.prettierrc](https://github.com/Wonsys-Martech-Solutions/conventions-and-practices/blob/main/.prettierrc) configuration file to your project.
 ```json
 {
@@ -70,7 +68,7 @@ To ensure standardized code styling while using [VS Code](https://code.visualstu
 }
 ```
 
-### Meaningful Variable Naming
+### Variable Naming Conventions
 When naming variables, it's essential to use descriptive and meaningful names that convey the purpose and content of the variable. Follow a consistent naming convention, such as ***camelCase***, ***snake_case***, or ***PascalCase***, depending on your programming language and project guidelines.
 
 ***Best Practice:***
