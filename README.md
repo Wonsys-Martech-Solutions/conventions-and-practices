@@ -37,7 +37,7 @@
 
 
 ## Introduction
-Welcome to Wonsys Github repository! This document outlines the conventions and best practices we follow to maintain consistency and efficiency in our development workflow. Whether you're a Full Time, Part Time, Freelancer or even an Intern, adhering to these convetions will make collaboration smoother and chodebase management more manageable.
+Welcome to Wonsys Github repository! This document outlines the ***conventions and best practices*** we follow to maintain consistency and efficiency in our development workflow. Whether you're a Full Time, Part Time, Freelancer or even an Intern, adhering to these convetions will make collaboration smoother and chodebase management more manageable.
 
 ## Technology Stacks
 **Frontend**
