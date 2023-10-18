@@ -41,6 +41,15 @@
 ## Introduction
 Welcome to Wonsys Github repository! This document outlines the conventions and best practices we follow to maintain consistency and efficiency in our development workflow. Whether you're a Full Time, Part Time, Freelancer or even an Intern, adhering to these convetions will make collaboration smoother and chodebase management more manageable.
 
+### Purpose of the document
+In this section, you'll provide a clear and detailed explanation of the document's primary intent. Consider the following elements to elaborate on the purpose:
+
+- **Introduction to Conventions and Practices:**
+
+  Begin by introducing the core concept of "Conventions and Practices." Explain that this document aims to establish and communicate best practices and guidelines for software development within your organization or project.
+
+- **Highlighting the Need:**
+
 ## Technology Stacks
 **Frontend**
 1. [React.js](https://react.dev/)
