@@ -132,3 +132,8 @@ TypeScript's real power lies in its strong type system, which helps catch errors
 - **Clearly Define Types:**
   
   Instead of depending on `any`, clearly define types for variables, function parameters, states, and return values. TypeScript provides a rich selection of built-in types, and you can craft custom types or interfaces to accurately represent specific data structures.
+
+
+
+
+[Creating a Git Commit Message Convention](https://medium.com/@naandalist/creating-a-git-commit-message-convention-for-your-team-acb4b3edfc44)
