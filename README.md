@@ -139,8 +139,12 @@ TypeScript's real power lies in its strong type system, which helps catch errors
 [Creating a Git Commit Message Convention](https://medium.com/@naandalist/creating-a-git-commit-message-convention-for-your-team-acb4b3edfc44)
 
 dev - development (eg: a new feature)
+
 fix - fixing some bug
+
 refactor - revamp or redo something
+
 <type> (<scope / module>) - <subject>
+
 dev (course) - adding course table 
 
