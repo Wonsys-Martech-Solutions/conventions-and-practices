@@ -70,7 +70,7 @@ To ensure standardized code styling while using [VS Code](https://code.visualstu
 ```
 
 ### Variable Naming Conventions
-When naming variables, it's essential to use descriptive and meaningful names that convey the purpose and content of the variable. Follow a consistent naming convention, such as ***camelCase***, ***snake_case***, or ***PascalCase***, depending on your programming language and project guidelines.
+When naming variables, it's essential to use descriptive and meaningful names that convey the purpose and content of the variable. Follow a consistent naming convention, such as ***camelCase***, ***snake_case***, ***kebab-case***, or ***PascalCase***, depending on your programming language and project guidelines.
 
 ***Best Practice:***
 1. ***Use Descriptive Names:*** Choose variable names that clearly describe the data they hold or the purpose they serve in the code. Avoid single-character names or overly cryptic abbreviations.
