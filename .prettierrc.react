@@ -1,0 +1,13 @@
+{
+    "singleQuote": true,
+    "useTabs": false,
+    "tabWidth": 4,
+    "trailingComma": "all",
+    "printWidth": 150,
+    "semi": true,
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "importOrder": ["^react", "^@?\\w", "^[./]", "^../../", "^[../]", "^@/"],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
